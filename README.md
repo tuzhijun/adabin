@@ -12,7 +12,7 @@ This is the PyTorch implementation of ECCV 2022 paper "AdaBin: Improving Binary 
 | ResNet-18 | 1/1 | 62.1% |
 | VGG-small | 1/1 | 92.3% |
 
--  Classification results on ImageNet-1k
+-  Classification results on ImageNet-1k (* means using the two-step training setting as ReActNet)
 
 | Model      | Bit-width (W/A) | Top-1. Acc | Top-5. Acc |
 | ---------- | --------------- | ---------- | ---------- |
